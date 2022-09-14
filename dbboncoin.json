@@ -1,0 +1,52 @@
+{
+  "annonces": [
+    {
+      "titre": "Chaussures",
+      "descriptif": "Chaussures à talons noirs. Taille 38. Neufs. Marque ERAM. Possibilité d'envoi avec supplément.",
+      "image": "https://images.pexels.com/photos/6045023/pexels-photo-6045023.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "prix": "15",
+      "id": 1,
+      "isLiked": false
+    },
+    {
+      "titre": "Chaussures",
+      "descriptif": "Chaussures à talons noirs. Taille 38. Neuf. Marque RAM. Possibilité d'envoi avec supplément.",
+      "image": "https://images.pexels.com/photos/4637874/pexels-photo-4637874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "prix": "30",
+      "id": 2,
+      "isLiked": false
+    },
+    {
+      "titre": "Jupe",
+      "descriptif": "Jupe noire imprimée fleurs blanches. Taille 38. Neuve. Marque Zara. Possibilité d'envoi avec supplément.",
+      "image": "https://images.pexels.com/photos/601316/pexels-photo-601316.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "prix": "20",
+      "id": 3,
+      "isLiked": true
+    },
+    {
+      "titre": "Jeans",
+      "descriptif": "Jeans deux coloris. Taille 42. Bon état. Marque Levi's. Possibilité d'envoi avec supplément.",
+      "image": " https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "prix": "35",
+      "id": 5,
+      "isLiked": true
+    },
+    {
+      "titre": "Robe",
+      "descriptif": "Robe verte imprimée fleurs bleues. Taille 38. Neuve. Marque Zara. Possibilité d'envoi avec supplement.",
+      "image": "https://images.pexels.com/photos/985635/pexels-photo-985635.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "prix": "35",
+      "id": 6,
+      "isLiked": false
+    },
+    {
+      "titre": "Sac à main",
+      "descriptif": "Sac à main marron. Taille U. Neuf. Marque Zara. Possibilité d'envoi avec supplement.",
+      "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "prix": "12",
+      "id": 7,
+      "isLiked": false
+    }
+  ]
+}

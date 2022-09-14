@@ -1,0 +1,27 @@
+/* COMMENTER */
+a:link{
+  text-decoration: none!important;
+}
+
+.photo {
+    height: 250px;
+    width: auto;
+}
+
+.text {
+    padding-left: 20px;
+}
+
+.prix {
+    font-weight: bold;
+}
+
+.fa-heart {
+    color: #F56A29;
+    font-size: 24px;
+}
+
+.fa-heart:hover {
+    font-size: 26px;
+    cursor: pointer;
+}
